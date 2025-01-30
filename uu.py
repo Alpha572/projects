@@ -7,3 +7,5 @@ if w > v:
     print(w)
 else:
     print(v)
+ if x>v:
+     print(x)
