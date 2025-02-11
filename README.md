@@ -32,14 +32,7 @@
 | 🔴 **صعب** | محتاجة خبرة قوية في الخوارزميات وهياكل البيانات | `problems/hard/` |
 | 🏆 **تحديات إضافية** | مسائل للمسابقات البرمجية والماراثونات | `problems/advanced/` |
 
----
 
-## 🚀 إزاي تساهم في المستودع  
-1. **اعمل Fork للمستودع.**  
-2. **ضيف الحل بتاعك في المجلد المناسب حسب المستوى واللغة.**  
-3. **اعمل Pull Request عشان نراجع الكود بتاعك ونضيفه.**  
-
-📌 **متنساش تسيب ⭐ نجمة لدعم المشروع!** 🤩  
 
 ---
 
@@ -77,11 +70,4 @@ This repository is created to collect solutions for coding problems from platfor
 | 🔴 **Hard** | Requires strong experience in algorithms and data structures | `problems/hard/` |
 | 🏆 **Advanced Challenges** | Problems from programming competitions & marathons | `problems/advanced/` |
 
----
 
-## 🚀 How to Contribute  
-1. **Fork the repository.**  
-2. **Add your solution in the appropriate folder based on level and language.**  
-3. **Create a Pull Request for review and merge.**  
-
-📌 **Don't forget to ⭐ star the repo to support the project!** 🤩  
