@@ -5,7 +5,8 @@
 - **LeetCode**  
 - **Codeforces**  
 - **HackerRank**  
-- **AtCoder** وغيرهم...  
+- **AtCoder**
+- **codewars** وغيرهم...  
 
 ---
 
